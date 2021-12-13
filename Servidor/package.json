@@ -1,0 +1,20 @@
+{
+  "name": "reservacionesapi",
+  "version": "1.0.0",
+  "description": "MEAN API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "Kevin Hernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.13"
+  },
+  "dependencies": {
+    "cors": "^2.8.5"
+  }
+}
